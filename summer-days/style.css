@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('//kopefully.github.io/fonts/summer-days/icomoon.eot?');
-  src:  url('//kopefully.github.io/fonts/summer-days/icomoon.eot?#iefix') format('embedded-opentype'),
-    url('//kopefully.github.io/fonts/summer-days/icomoon.ttf?') format('truetype'),
-    url('//kopefully.github.io/fonts/summer-days/comoon.woff?') format('woff'),
-    url('//kopefully.github.io/fonts/summer-days/icomoon.svg?#icomoon') format('svg');
+  src:  url('https://kopefully.github.io/fonts/summer-days/icomoon.eot?');
+  src:  url('https://kopefully.github.io/fonts/summer-days/icomoon.eot?#iefix') format('embedded-opentype'),
+    url('https://kopefully.github.io/fonts/summer-days/icomoon.ttf?') format('truetype'),
+    url('https://kopefully.github.io/fonts/summer-days/comoon.woff?') format('woff'),
+    url('https://kopefully.github.io/fonts/summer-days/icomoon.svg?#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
