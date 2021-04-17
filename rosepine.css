@@ -25,7 +25,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.j-ofelia {
+  --j-m: 245, 110, 155; 
+  --j-a: 168, 69, 181; 
+}
 
-.jump-ofelia:before {
+.j-ofelia:before {
   content: "\e902";
 }
