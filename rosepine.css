@@ -10,7 +10,7 @@
   font-display: block;
 }
 
-[class^="jump-"], [class*=" jump-"] {
+[class^="j-"], [class*=" j-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
   speak: never;
