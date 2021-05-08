@@ -1,7 +1,7 @@
 /* Webfont: TANBUSTER-Bold */@font-face {
     font-family: 'TAN-BUSTER';
-    src: url('TAN-BUSTER.woff2') format('woff2'), /* Modern Browsers */
-         url('TAN-BUSTER.otf') format('opentype'); /* Safari, Android, iOS */
+    src: url('https://kopefully.github.io/fonts/buster/TAN-BUSTER.woff2') format('woff2'), /* Modern Browsers */
+         url('https://kopefully.github.io/fonts/buster/TAN-BUSTER.otf') format('opentype'); /* Safari, Android, iOS */
              font-style: normal;
     font-weight: bold;
     text-rendering: optimizeLegibility;
