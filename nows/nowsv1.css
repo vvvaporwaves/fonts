@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'wolfsbane';
+  src:  url('https://kopefully.github.io/fonts/nows/nowsv1.eot?sigii4');
+  src:  url('https://kopefully.github.io/fonts/nows/nowsv1.eot?sigii4#iefix') format('embedded-opentype'),
+    url('https://kopefully.github.io/fonts/nows/nowsv1.ttf?sigii4') format('truetype'),
+    url('https://kopefully.github.io/fonts/nows/nowsv1.woff?sigii4') format('woff'),
+    url('https://kopefully.github.io/fonts/nows/nowsv1.svg?sigii4#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="v3i-"], [class*=" v3i-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'wolfsbane' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.v3i-irene:before {
+  content: "\e900";
+}
+.v3i-potion-death:before {
+  content: "\e901";
+}
+.v3i-potion-luck:before {
+  content: "\e902";
+}
+.v3i-vamp:before {
+  content: "\e903";
+}
