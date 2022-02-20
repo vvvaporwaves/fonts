@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'HANDBRUSH';
+    src: url('https://kopefully.github.io/fonts/Hands-Brush-Strong-Urban-Brush/Hands Brush.woff2') format('woff2'), /* Modern Browsers */
+         url('https://kopefully.github.io/fonts/Hands-Brush-Strong-Urban-Brush/Hands Brush.otf') format('opentype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
